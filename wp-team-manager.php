@@ -4,6 +4,7 @@ declare(strict_types=1);
 
 /**
  * Plugin Name: Team Manager for WordPress
+ * Tested up to: 7.1.4
  * Plugin URI: https://openwpclub.com
  * Description: Manages and displays team members with customizable layouts
  * Version: 3.0.0
